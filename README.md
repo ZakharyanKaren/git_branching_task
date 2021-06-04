@@ -1,6 +1,6 @@
 Write a function that makes the first number as large as possible by
 swapping out its digits for digits in the second number.
-
+//////////////////////////////////////////////////////////////////////
 example:
 
 maxPossible(1234, 567) -> 7654
@@ -10,3 +10,8 @@ maxPossible(1234, 567) -> 7654
 maxPossible(523, 76) - 763
 maxPossible(9132, 5564) - 9655
 maxPossible(8732, 91255) - 9755
+//////////////////////////////////////////////////////////////////////
+There is a HYPERLINK to task solution:
+
+https://github.com/ZakharyanKaren/git_task/blob/main/maxPossible.js
+//////////////////////////////////////////////////////////////////////
